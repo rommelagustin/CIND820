@@ -13,4 +13,4 @@ Predictive modeling: Decision Tree and K-Nearest Neighbours compare which perfor
 Predictive modeling: Do data split and simple training
 Model evaluation: Determine performance measures via confusion matrix: Accuracy, Recall, etc. 
 Conclusion
-Repository to contain raw datasets, analyses (i.e., statistics, visualizations, correlations, etc.),  
+Repository to contain raw datasets, PDF of analyses (i.e., statistics, visualizations, correlations, etc.), predictive modeling and model evaluation 
