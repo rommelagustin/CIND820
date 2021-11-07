@@ -1,4 +1,4 @@
-# CIND820
+# CIND820 Predicting Rental Rate Growth in Canadian Market
 RA CIND820-Capstone Project
 This project aims to investigate how commercial retail rents in key major cities of Toronto, Vancouver, Montreal, Ottawa, Edmonton and Calgary, if population and household income impacts retail rent growth in these select cities
 We found from Statistics Canada 4 datasets: 1) Population based on 2006 and 2011 census 2) Population based on 2016 census 3) Household income for 2005 and 2015 and 4) Commercial Rents Price Service Index
