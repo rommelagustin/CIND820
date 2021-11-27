@@ -9,7 +9,7 @@ Data preparation: Check if there are missing values, select relevant columns/att
 Data preparation: With separate datasets, relevant attributes are combined and transformed
 Data preparation: Combine cleaned datasets, perform similar data analyses as above: attributes check, statistics, outliers and visualization including plots and histograms
 Predictive modeling: Use Classification (result from above: identified these are labeled data; do predictive and supervised learning)
-Predictive modeling: Decision Tree and K-Nearest Neighbours compare which performs better
+Predictive modeling: K-Nearest Neighbours and Logistic Regression compare which performs better
 Predictive modeling: Do data split and simple training
 Model evaluation: Determine performance measures via confusion matrix: Accuracy, Recall, etc. 
 Conclusion
